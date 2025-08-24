@@ -11,6 +11,10 @@ The dataset used is the *Sample Superstore Dataset*.
 - Best Performing Sub-Categories: Phones & Chairs  
 - West Region generated the highest revenue.
 
+## 📸 Dashboard Preview
+![Dashboard](sales_dashboard.png)
+
+
 ## 📂 Files
 - `Sales.tbwx` → Tableau workbook file  
 - `Sample - Superstore.xls` → Dataset used  
